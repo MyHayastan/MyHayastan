@@ -1,4 +1,4 @@
-<html>
+
 <html lang="hy">
 <head>
   <meta charset="utf-8" />
